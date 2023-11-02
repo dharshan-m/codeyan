@@ -1,0 +1,124 @@
+.title_heading_signup {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    padding: 50px;
+    margin-right: 50px;
+    color: #162074;
+}
+h4.using_signup {
+    color: red;
+    font-size: larger;
+    margin-left: 15px;
+} 
+.line2_signup {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -15px;
+    margin-left: 102px;
+}
+h4.using_signup {
+    color: red;
+    font-size: larger;
+    margin-left: 15px;
+}
+.buttons_for_userDetails {
+    margin-left: 102px;
+    margin-top: 40px;
+}
+.signup_for_email-and-password {
+    display: flex;
+    margin-top: -10px;
+}
+input[type="text"] {
+    width: 620px;
+    height: 35px;
+    background: #D9D9D9;
+    border-style: none;
+    border-radius: 2px;
+    text-align: center;
+}
+label.label_username {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.signup_for_emailtag{
+    display: flex;
+    flex-direction: column;
+}
+.sign_for_passwordtag{
+    display: flex;
+    flex-direction: column;
+}
+input[type="email"] {
+    width: 297px;
+    height: 35px;
+    background: #D9D9D9;
+    border-style: none;
+    border-radius: 2px;
+    text-align: center;
+}
+input[type="password"] {
+    width: 300px;
+    height: 35px;
+    margin-left: 22px;
+    border-style: none;
+    background: #D9D9D9;
+    border-radius: 2px;
+    text-align: center;
+}
+label.label_email {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+label.label_password {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 20px;
+}
+.privacy-policy {
+    display: flex;
+    margin-left: 102px;
+    margin-top: 15px;
+}
+input.checkbox_for_privacy {
+    width: 20px;
+}
+p.class_content_privacy-poilcy {
+    margin-left: 20px;
+}
+button.button_signup {
+    border-style: none;
+    background: #FF2835;
+    color: white;
+    font-size: 15px;
+    font-weight: 400px;
+    margin-left: 15px;
+    cursor: pointer;
+    width: 70px;
+    height: 60px;
+    border-radius: 4px;
+    margin-top: 60px;
+    margin-left: 102px;
+    box-shadow: 0px 4px 4px 0px rgba(255, 0, 0, 0.40);
+}
+button.button_for_login-content {
+    background: white;
+    border-style: none;
+    color: red;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.login_page_div {
+    margin-left: 102px;
+    margin-top: 50px;
+}

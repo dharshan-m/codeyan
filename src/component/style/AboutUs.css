@@ -1,0 +1,104 @@
+.class-for-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1.class-for-heading-logo {
+    color:#162074;
+}
+button.button-for-homebtn {
+    width: 130px;
+    height: 40px;
+    border-radius: 15px;
+    background: #4339B9;
+    color: white;
+    border-style: none;
+    cursor: pointer;
+    font-size: large;
+}
+button.button-for-homebtn:hover{
+    box-shadow: 0px 4px 4px 0px rgba(56, 68, 172, 0.69);
+}
+p.para-for-1 {
+    width: 1213px;
+    font-size: x-large;
+    background: #ffffff;
+    box-shadow: 1px 1px 15px 3px rgba(0, 0, 0, 0.25);
+    color: #000;
+    text-align: justify;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 5px;
+}
+.div-paragraph1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+
+}
+.paragrph-div-for-2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px;
+}
+.para-div-for-2 {
+    width: 1213px;
+    font-size: x-large;
+    background: #ffffff;
+    box-shadow: 1px 1px 15px 3px rgba(0, 0, 0, 0.25);
+    color: #000;
+    text-align: justify;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    border-radius: 5px;
+    line-height: normal;
+}
+.heading-for-para2 {
+    margin-right: 1030px;
+    /* font-size: larger; */
+    margin-bottom: 15px;
+    color: #162074;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.paragraph-div-for-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 80px;
+}
+p.para-for-3 {
+    width: 1213px;
+    font-size: x-large;
+    background: #ffffff;
+    box-shadow: 1px 1px 15px 3px rgba(0, 0, 0, 0.25);
+    color: #000;
+    text-align: justify;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 5px;
+}
+h4.h4-for-heading-2 {
+    margin-right: 1030px;
+    /* font-size: larger; */
+    margin-bottom: 15px;
+    color: #162074;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}

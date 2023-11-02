@@ -1,0 +1,42 @@
+.main-container-nav {
+    display: flex;
+    align-items: center; /* Vertically center the content in the container */
+    justify-content: space-between; /* Spread the content horizontally */
+    padding: 10px;
+    background-color: #333; /*Example background color*/ 
+    color: rgb(255, 255, 255); /* Example text color */
+}
+.h1-for-logo {
+    /* color: #162074; */
+    color: white;
+    font-size: 24px; /* Example font size */
+    margin: 0; /* Remove default margin */
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+/* .div-for-nav_container {
+} 
+.nav-class-navigation {
+}   */
+.unorder-list {
+    list-style-type: none; /* Remove bullet points from the list */
+}  
+.link-tag {
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+        margin-right: 20px;
+        font-family: Inter;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+}  
+  /* Style the links when hovered or visited */
+.link-tag:hover,
+.link-tag:visited {
+    text-decoration: underline; /* Add underline on hover/visited (optional) */
+}  

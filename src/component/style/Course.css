@@ -1,0 +1,181 @@
+h1.heading-course-logo {
+    display: flex;
+    justify-content: center;
+    color: #162074;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.div-flex-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+img.imgare-magnifiying-glass {
+    width: 30px;
+}
+.button-for-search {
+    width: 600px;
+    height: 35px;
+    border-style: double;
+    border-radius: 30px;
+    background: white;
+    text-align: center;
+    font-size: 25px;
+    color: #162074;
+}
+button.button-back-to-home {
+    width: 130px;
+    height: 40px;
+    border-radius: 15px;
+    background: #4339B9;
+    color: white;
+    border-style: none;
+    cursor: pointer;
+    font-size: large;
+}
+button.button-back-to-home:hover{
+    box-shadow: 0px 4px 4px 0px rgba(56, 68, 172, 0.69);
+}
+.div-for-courselist {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    column-gap: 102px;
+    row-gap: 75px;
+    margin-left: 64px;
+    margin-top: 50px;
+}
+.divfor-java {
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid #909090;
+}
+.divfor-java:hover {
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.25);
+}
+img.image-head {
+    width: 400px;
+    height: 200px;
+    border-radius: 10px 10px 0px 0px;
+}
+.div-course-name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.div-author-cost {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.div-beginbtn {
+    display: flex;
+    justify-content: center;
+}
+button.let\'s-begin-button {
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    background: #4339B9;
+    color: white;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 25px;
+    border-style: none;
+    cursor: pointer ;
+}
+h4.h4-author-name {
+    color: #162074;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+h5.h5-duration {
+    color: #162074;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal
+}
+h5.h5-cost {
+    color: #162074;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal
+}
+h4.h4-course-name {
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal
+}
+.divfor-javascript {
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid #909090;
+}
+.divfor-javascript:hover {
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.25);
+}
+.divfor-css {
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid #909090;
+}
+.divfor-css:hover {
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.25);
+}
+.divfor-html {
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid #909090;
+}
+.divfor-html:hover {
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.25);
+}
+.divfor-react {
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid #909090;
+}
+.divfor-react:hover {
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.25);
+}
+.divfor-sql {
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid #909090;
+}
+.divfor-sql:hover {
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.25);
+}
+.divfor-python {
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid #909090;
+}
+.divfor-python:hover {
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.25);
+}
+.divfor-cplusplus {
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid #909090;
+}
+.divfor-cplusplus:hover {
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.25);
+}
+.divfor-c {
+    border-radius: 10px 10px 10px 10px;
+    border: 1px solid #909090;
+}
+.divfor-c:hover {
+    box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.25);
+}
